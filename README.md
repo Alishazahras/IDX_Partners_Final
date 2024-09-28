@@ -50,7 +50,7 @@ You can install the required packages by running:
 1. Clone the repository.
 2. Ensure you have the required Python packages installed.
 3. Place the dataset [loan_data_2007_2014.csv](https://binusianorg-my.sharepoint.com/personal/alisha_saadiya_binus_ac_id/_layouts/15/guestaccess.aspx?share=EWVgxxcjFW1Dgt2UInm-B-kB8jLgIqd2AICcL_1jP5598A&e=mmeQ7T)
-- **Number of Rows:** 466,285 in the root directory.
+    - **Number of Rows:** 466,285 in the root directory.
 4. Open the Jupyter notebook and run the cells to execute the analysis and modeling.
 
 ## Project Goals
